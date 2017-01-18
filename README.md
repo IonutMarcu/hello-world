@@ -1,3 +1,3 @@
 # hello-world
-My first GitHub repository
-I am male
+My first GitHub repository.
+I am male.
